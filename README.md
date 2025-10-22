@@ -28,6 +28,7 @@ Displays static text for a brief period.
 Scrolls the festive “Happy Diwali!” message from right to left.
 Users can adjust scroll speed and font size easily via code.
 
+LinkedIn post : https://www.linkedin.com/posts/srinithia_arduino-arduinor4wifi-madeinindia-activity-7386670677652770817-hq-Q?utm_source=share&utm_medium=member_android&rcm=ACoAAEXTHlwBupGkJVoXcnnd3Xhc-NKGsjVtj90 
 📌 Contact
 I’m happy to receive feedback, suggestions, and collaborations!
 
